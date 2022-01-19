@@ -1,0 +1,14 @@
+name: Bated_Breath_Word_Generator
+title: Bated_Breath_Word_Generator
+username:
+account: joseph-martin-610
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4064107
+bundleId: 4548301
+url: https://joseph-martin-610.shinyapps.io/Bated_Breath_Word_Generator/
+when: 1620007574.56789
+lastSyncTime: 1620007574.56889
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: model_test_scr.R|old

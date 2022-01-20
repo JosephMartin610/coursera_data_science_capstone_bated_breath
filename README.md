@@ -1,1 +1,2 @@
-# coursera_data_science_capstone_bated_breath_word_generator
+# Coursera Data Science Specialization
+# Capstone Project: Bated Breath Word Generator

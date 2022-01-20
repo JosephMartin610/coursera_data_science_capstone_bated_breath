@@ -13,7 +13,7 @@ The data used for this project are a random subset of blogs, news, and tweet ite
 
 **Presentation**
 
-The capstone presentation is [here](https://htmlpreview.github.io/word_generator_presentation-rpubs.html). It has information about model basis and performance.
+The capstone presentation is [here](https://htmlpreview.github.io/?https://github.com/JosephMartin610/coursera_data_science_capstone_bated_breath_word_generator/blob/main/word_generator_presentation-rpubs.html). It has information about model basis and performance.
 
 **App**
 

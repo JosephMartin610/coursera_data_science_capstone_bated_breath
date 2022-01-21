@@ -26,4 +26,4 @@ The capstone presentation is [here](https://htmlpreview.github.io/?https://githu
 
 **App**
 
-During the capstone project, the app was deployed on shinyapps.io, but having a word prediction app that performs decently requires significant memory, and that requires a paid plan on shinyapps.io. 
+During the capstone project, the app was deployed on shinyapps.io, but having a word prediction app that performs decently requires significant memory, and that requires a paid plan on shinyapps.io, so it is not currently available.

@@ -20,6 +20,8 @@ The order in which to run the R scripts is as follows:
 - model_test_scr.R (calls pred_text_ngrams_kbo_gtd.R which calls model_ngrams_kbo_gtd.R)
 - app.R to run Shiny app (calls pred_text_ngrams_kbo_gtd.R which calls model_ngrams_kbo_gtd.R)
 
+Please note that list_profanity_words.txt is only inculded here to ensure the model is not based on strings containing profanity or racist or sexist words, because the model could end up predicting these same words. If you think you may be bothered or offended by these words, please do not review this file.
+
 **Presentation**
 
 The capstone presentation is [here](https://htmlpreview.github.io/?https://github.com/JosephMartin610/coursera_data_science_capstone_bated_breath_word_generator/blob/main/word_generator_presentation-rpubs.html). It has information about model basis and performance.
